@@ -3,13 +3,21 @@
 A clean, modern **React + Vite** front-end to compose and preview **RCS (Rich Communication Services)** appointment reminders — supporting **Basic Text**, **Card**, and **Carousel** templates with a live phone mock preview.
  
 [![Vite](https://img.shields.io/badge/Vite-7.x-646CFF?logo=vite)](https://vitejs.dev/)
+
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev/)
-[![Chakra UI](https://img.shields.io/badge/Chakra%20UI-3.x-319795?logo=chakraui)](https://chakra-ui.com/)
-[![Ant Design](https://img.shields.io/badge/Ant%20Design-5.x-1677FF?logo=antdesign)](https://ant.design/)
-[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-12.x-0055FF?logo=framer)](https://www.framer.com/motion/)
+
+[![Chakra UI](https://img.shields.io/badge/Chakra_UI-3.x-319795?logo=chakraui)](https://chakra-ui.com/)
+
+[![Ant Design](https://img.shields.io/badge/Ant_Design-5.x-1677FF?logo=antdesign)](https://ant.design/)
+
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.x-0055FF?logo=framer)](https://www.framer.com/motion/)
+
 [![ESLint](https://img.shields.io/badge/ESLint-9.x-4B32C3?logo=eslint)](https://eslint.org/)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-contributing)
+
  
 </div>
  
