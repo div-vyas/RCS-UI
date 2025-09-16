@@ -6,12 +6,12 @@ A clean, modern **React + Vite** front-end to compose and preview **RCS (Rich Co
 ---
  
 ### 📦 Tech Stack
-| Tech Stack |   | Tech Stack |   |
-|------------|---|------------|---|
-| ✨ Vite | [![Vite](https://img.shields.io/badge/Vite-7.x-646CFF?logo=vite)](https://vitejs.dev/) | ⚛️ React | [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev/) |
-| 🌿 Chakra UI | [![Chakra UI](https://img.shields.io/badge/Chakra_UI-3.x-319795?logo=chakraui)](https://chakra-ui.com/) | 🎨 Ant Design | [![Ant Design](https://img.shields.io/badge/Ant_Design-5.x-1677FF?logo=antdesign)](https://ant.design/) |
-| 🎞️ Framer Motion | [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.x-0055FF?logo=framer)](https://www.framer.com/motion/) | 🔍 ESLint | [![ESLint](https://img.shields.io/badge/ESLint-9.x-4B32C3?logo=eslint)](https://eslint.org/) |
- 
+![Vite](https://img.shields.io/badge/Vite-7.x-646CFF?logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-3.x-319795?logo=chakraui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-5.x-1677FF?logo=antdesign&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.x-0055FF?logo=framer&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-9.x-4B32C3?logo=eslint&logoColor=white)
  
 ---
  
